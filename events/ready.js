@@ -1,7 +1,6 @@
-const mongoose = require("mongoose")
+//const mongoose = require("mongoose")
 
 module.exports = (client) => { //required in every file
-    //mongodb connection (optional)
     // mongoose.connect(process.env.DATABASE, { useNewUrlParser: true, useUnifiedTopology: true, useFindAndModify: false })
     // mongoose.connection.on('connected', () => {
     //     console.log('Mongoose connection successfully opened!')

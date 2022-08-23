@@ -2,9 +2,9 @@
 Easy to use and configure discord.js bot template with dotenv and mongoose pre-integrated.
 ## npm Dependencies
 ```js
-├── discord.js@12.2.0
-├── dotenv@9.0.2
-└── mongoose@5.12.10
+├── discord.js@14.3.0
+├── dotenv@16.0.1
+└── mongoose@6.5.2
 ```
 ## .env Configuration
 ```js
